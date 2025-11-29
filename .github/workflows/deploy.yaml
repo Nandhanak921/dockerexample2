@@ -29,5 +29,3 @@ jobs:
 
       - name: build React App
         run: CI=false npm run build
-
-      

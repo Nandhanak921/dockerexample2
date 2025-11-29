@@ -4,7 +4,7 @@ function Example() {
   return (
     <div>
      <h1>Welcome</h1>
-      <h2>rrrr</h2>
+      <h2>rhhhrrr</h2>
     </div>
   )
 }
